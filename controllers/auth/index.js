@@ -10,5 +10,4 @@ module.exports = {
   getCurrent,
   logout,
   updateAvatar,
- 
 };
